@@ -1,0 +1,3 @@
+# kubectx
+
+kubectl context switch
